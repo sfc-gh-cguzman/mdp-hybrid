@@ -1,3 +1,1 @@
-.snowflake/cortex/plans/
-graphql_test/__pycache__/*
-graphql_test/__init__.py
+graphql_test/__pycache__
