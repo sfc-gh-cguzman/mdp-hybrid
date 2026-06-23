@@ -1,3 +1,3 @@
-.snowflake/
-graphql_test/__pycache__
+.snowflake/*
+graphql_test/__pycache__/*
 graphql_test/__init__.py
